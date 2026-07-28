@@ -10,6 +10,7 @@ GitHub Pages で配信します。
 | トップ | https://aiokara.github.io/mememo-legal/ |
 | プライバシーポリシー | https://aiokara.github.io/mememo-legal/privacy.html |
 | 利用規約 | https://aiokara.github.io/mememo-legal/terms.html |
+| app-ads.txt | https://aiokara.github.io/app-ads.txt |
 
 ## アプリ側の設定
 
